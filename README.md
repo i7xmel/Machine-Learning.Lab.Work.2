@@ -11,6 +11,7 @@ This repository contains 16 practical programs implementing fundamental machine 
 - Implemented data binning for continuous variables (year built, square footage)
 - Applied both Min-Max scaling and Z-score normalization
 - Generated box plots to visualize scaled data distributions
+  
 
 **Screenshot**
 
