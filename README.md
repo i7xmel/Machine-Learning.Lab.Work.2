@@ -171,10 +171,10 @@ This repository contains 16 practical programs implementing fundamental machine 
 
 **Screenshot**
 
-<img width="343" height="141" alt="image" src="https://github.com/user-attachments/assets/d4be8268-01ff-4256-abc0-0f3025220fa3" />
-<img width="221" height="178" alt="image" src="https://github.com/user-attachments/assets/c5ae8ba2-468b-4fe1-b9be-bbebaf6b4c86" />
-<img width="199" height="157" alt="image" src="https://github.com/user-attachments/assets/a1cded49-107d-4f36-9998-e565ae3b1620" />
-<img width="257" height="198" alt="image" src="https://github.com/user-attachments/assets/fb04db88-2fe3-4658-911c-74687bc343fc" />
+<img width="343" height="241" alt="image" src="https://github.com/user-attachments/assets/d4be8268-01ff-4256-abc0-0f3025220fa3" />
+<img width="321" height="278" alt="image" src="https://github.com/user-attachments/assets/c5ae8ba2-468b-4fe1-b9be-bbebaf6b4c86" />
+<img width="299" height="257" alt="image" src="https://github.com/user-attachments/assets/a1cded49-107d-4f36-9998-e565ae3b1620" />
+<img width="357" height="298" alt="image" src="https://github.com/user-attachments/assets/fb04db88-2fe3-4658-911c-74687bc343fc" />
 
 
 ---
