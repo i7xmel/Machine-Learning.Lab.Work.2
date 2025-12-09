@@ -84,15 +84,6 @@ This repository contains 16 practical programs implementing fundamental machine 
 
 
 
-<img width="439" height="630" alt="image" src="https://github.com/user-attachments/assets/d8aedc42-45ab-410c-be17-7f5a4e2fedcf" />
-<img width="438" height="627" alt="image" src="https://github.com/user-attachments/assets/c0104fac-4319-4dbd-aef9-f7fde165250c" />
-<img width="424" height="309" alt="image" src="https://github.com/user-attachments/assets/9b85e85b-3728-461e-808c-0e8ed915b543" />
-<img width="343" height="162" alt="image" src="https://github.com/user-attachments/assets/5aeacf4d-9762-4165-b1ba-ad6767fd8ac9" />
-<img width="433" height="536" alt="image" src="https://github.com/user-attachments/assets/ca0826a4-e47c-41a3-99b4-863c471b330f" />
-<img width="372" height="106" alt="image" src="https://github.com/user-attachments/assets/3b7293a3-c81b-4d0e-b814-b6e734a7c428" />
-<img width="433" height="397" alt="image" src="https://github.com/user-attachments/assets/534a6d69-ac63-4f1e-8fa6-dfcccc853ef0" />
-<img width="307" height="67" alt="image" src="https://github.com/user-attachments/assets/e475d75a-922a-4215-9e18-d7fc6ee06968" />
-
 ---
 
 ### Program 5: Multiple Linear Regression and Multicollinearity Analysis
@@ -106,9 +97,9 @@ This repository contains 16 practical programs implementing fundamental machine 
 
 **Screenshot**
 
-<img width="513" height="500" alt="image" src="https://github.com/user-attachments/assets/f8417adb-3eb6-438f-871f-93e9aad2ed2c" />
-<img width="382" height="41" alt="image" src="https://github.com/user-attachments/assets/bb086235-e5b2-4c9c-b09b-c4c0439f86f7" />
-<img width="478" height="516" alt="image" src="https://github.com/user-attachments/assets/6cfdb3a3-e23c-44ae-a8e3-26d0f474f5c0" />
+<img width="483" height="473" alt="image" src="https://github.com/user-attachments/assets/9dab1354-6509-469d-8007-f3c52d4411c1" />
+
+<img width="491" height="276" alt="image" src="https://github.com/user-attachments/assets/3839e227-be79-49b2-b9da-2f1914940394" />
 
 
 
@@ -126,10 +117,15 @@ This repository contains 16 practical programs implementing fundamental machine 
 
 **Screenshot**
 
-<img width="302" height="196" alt="image" src="https://github.com/user-attachments/assets/68ca5e0f-9ad9-433a-8043-3d2b387d6176" />
-<img width="324" height="226" alt="image" src="https://github.com/user-attachments/assets/dafdca40-9688-476f-836e-c4832e4663d5" />
-<img width="408" height="191" alt="image" src="https://github.com/user-attachments/assets/08721c2e-bce9-434b-879a-f6f0c47c0d06" />
-<img width="253" height="234" alt="image" src="https://github.com/user-attachments/assets/6d83cb49-1e97-4535-ae96-79b3395384d0" />
+
+<img width="366" height="287" alt="image" src="https://github.com/user-attachments/assets/83d1d3bd-6455-40c5-b995-ff12875b1613" />
+
+<img width="438" height="325" alt="image" src="https://github.com/user-attachments/assets/f5b96aca-88e4-4d80-ad00-c0caacc917d2" />
+
+<img width="432" height="342" alt="image" src="https://github.com/user-attachments/assets/a2923230-441c-47ca-9f87-111651ea4c89" />
+
+<img width="430" height="524" alt="image" src="https://github.com/user-attachments/assets/0720f0d6-d44a-41f7-91d2-61d6e0388809" />
+
 
 
 
@@ -147,7 +143,9 @@ This repository contains 16 practical programs implementing fundamental machine 
 
 **Screenshot**
 
-<img width="457" height="139" alt="image" src="https://github.com/user-attachments/assets/8c0fb940-c5eb-4da7-96e8-b4d8829e330a" />
+
+<img width="510" height="326" alt="image" src="https://github.com/user-attachments/assets/8ccb94ef-ae90-4411-888b-c12dec436388" />
+
 
 ---
 
@@ -161,9 +159,13 @@ This repository contains 16 practical programs implementing fundamental machine 
 
 **Screenshot**
 
-<img width="465" height="332" alt="image" src="https://github.com/user-attachments/assets/042086ec-ab04-4fd9-8fbb-e2b342c92901" />
-<img width="635" height="281" alt="image" src="https://github.com/user-attachments/assets/2533bd54-6645-40e7-a028-55eab80aa350" />
-<img width="543" height="454" alt="image" src="https://github.com/user-attachments/assets/8299dd49-3cbb-4fff-acb2-1e8962902062" />
+
+<img width="463" height="301" alt="image" src="https://github.com/user-attachments/assets/36a6dd35-558c-45cc-9e3b-308809945aa5" />
+
+<img width="432" height="213" alt="image" src="https://github.com/user-attachments/assets/1a622301-47a1-4885-997a-477789b09848" />
+
+<img width="470" height="373" alt="image" src="https://github.com/user-attachments/assets/0fb4d3d0-dc44-4b87-882b-9100db72fe1e" />
+
 
 
 ---
@@ -179,10 +181,14 @@ This repository contains 16 practical programs implementing fundamental machine 
 
 **Screenshot**
 
-<img width="343" height="241" alt="image" src="https://github.com/user-attachments/assets/d4be8268-01ff-4256-abc0-0f3025220fa3" />
-<img width="321" height="278" alt="image" src="https://github.com/user-attachments/assets/c5ae8ba2-468b-4fe1-b9be-bbebaf6b4c86" />
-<img width="299" height="257" alt="image" src="https://github.com/user-attachments/assets/a1cded49-107d-4f36-9998-e565ae3b1620" />
-<img width="357" height="298" alt="image" src="https://github.com/user-attachments/assets/fb04db88-2fe3-4658-911c-74687bc343fc" />
+
+<img width="452" height="314" alt="image" src="https://github.com/user-attachments/assets/6a2674ec-f0ab-44b8-b106-ac1382bd13be" />
+
+<img width="421" height="343" alt="image" src="https://github.com/user-attachments/assets/cb832b50-afc7-4bfa-becb-ee6f58881190" />
+
+<img width="442" height="331" alt="image" src="https://github.com/user-attachments/assets/62583b81-9290-4944-ad46-9a1f7ae9ce8d" />
+
+<img width="497" height="318" alt="image" src="https://github.com/user-attachments/assets/905ac0c8-35e1-454e-9320-dbfe3c6d7e3f" />
 
 
 ---
@@ -198,8 +204,11 @@ This repository contains 16 practical programs implementing fundamental machine 
 
 **Screenshot**
 
-<img width="334" height="452" alt="image" src="https://github.com/user-attachments/assets/2ef47fd4-dcbd-4184-a2d9-f5e49be2d97e" />
-<img width="315" height="290" alt="image" src="https://github.com/user-attachments/assets/3d0da170-b174-4761-a5f3-ea201b2bbc7b" />
+
+<img width="494" height="613" alt="image" src="https://github.com/user-attachments/assets/ff972c44-9d08-40ec-88f5-4a3436291d32" />
+
+<img width="490" height="158" alt="image" src="https://github.com/user-attachments/assets/614ba0ac-b8ce-4606-9745-82ed151a4d2e" />
+
 
 
 ---
@@ -215,9 +224,15 @@ This repository contains 16 practical programs implementing fundamental machine 
 
 **Screenshot**
 
-<img width="214" height="260" alt="image" src="https://github.com/user-attachments/assets/811f7c98-9916-4cb5-8871-76b748480e58" />
-<img width="354" height="227" alt="image" src="https://github.com/user-attachments/assets/ad01c6d8-11e4-4453-b78b-a5951bc4b047" />
-<img width="393" height="304" alt="image" src="https://github.com/user-attachments/assets/caacbd40-9516-43f8-a368-20b29501225c" />
+
+<img width="471" height="444" alt="image" src="https://github.com/user-attachments/assets/669589de-75c8-43be-8676-7a47d472e352" />
+
+<img width="572" height="424" alt="image" src="https://github.com/user-attachments/assets/9ff5f7dc-1b2b-4992-b74a-633e258bb2d4" />
+
+<img width="558" height="512" alt="image" src="https://github.com/user-attachments/assets/c09d2145-9747-4df4-9d59-c7717973afca" />
+
+<img width="506" height="500" alt="image" src="https://github.com/user-attachments/assets/7ad03cf6-2871-4090-8334-be53116d024f" />
+
 
 
 ---
@@ -233,11 +248,15 @@ This repository contains 16 practical programs implementing fundamental machine 
 
 **Screenshot**
 
-<img width="359" height="292" alt="image" src="https://github.com/user-attachments/assets/46580645-2718-44b7-a7c8-c55fa35358f5" />
-<img width="344" height="205" alt="image" src="https://github.com/user-attachments/assets/4820216d-b5c4-4ab3-9961-f36fac8f6f0c" />
-<img width="240" height="212" alt="image" src="https://github.com/user-attachments/assets/a2292c27-250a-46d0-9b31-a4cc28952d6d" />
-<img width="345" height="285" alt="image" src="https://github.com/user-attachments/assets/9c9e1906-7ec7-4812-a011-b3eabee7ebf0" />
-<img width="435" height="336" alt="image" src="https://github.com/user-attachments/assets/ece83573-18b5-42b6-a077-4a7256c59af2" />
+
+<img width="540" height="373" alt="image" src="https://github.com/user-attachments/assets/2b7d181d-cf35-457a-a377-925144a84f49" />
+
+<img width="448" height="152" alt="image" src="https://github.com/user-attachments/assets/cc5542c2-56ca-418c-93ce-eea2f8712593" />
+
+<img width="534" height="430" alt="image" src="https://github.com/user-attachments/assets/5c9b99c7-e37f-482d-ae46-8095082b6b27" />
+
+<img width="452" height="326" alt="image" src="https://github.com/user-attachments/assets/7436cb90-4610-4859-bdf8-9da9f84d85df" />
+
 
 
 ---
@@ -253,10 +272,13 @@ This repository contains 16 practical programs implementing fundamental machine 
 
 **Screenshot**
 
-<img width="244" height="119" alt="image" src="https://github.com/user-attachments/assets/9e47a555-1e60-4122-b2fa-9cbce19a5104" />
-<img width="248" height="177" alt="image" src="https://github.com/user-attachments/assets/8daf5b77-f08d-45fd-bac6-aa17364a1e5b" />
-<img width="242" height="103" alt="image" src="https://github.com/user-attachments/assets/68881ad0-f1fb-4d80-af1f-4a25ded6bbf4" />
-<img width="536" height="177" alt="image" src="https://github.com/user-attachments/assets/1f87622d-ef3a-4692-b6a6-2c9357d7509b" />
+
+<img width="550" height="422" alt="image" src="https://github.com/user-attachments/assets/4440201c-11df-4060-baff-7de4edb45f10" />
+
+<img width="554" height="385" alt="image" src="https://github.com/user-attachments/assets/8ace4d78-f2e6-4aaa-a348-7b5f4a6dde24" />
+
+<img width="591" height="338" alt="image" src="https://github.com/user-attachments/assets/905888ba-6e62-4c73-ab3a-24999a5536e4" />
+
 
 ---
 
@@ -272,11 +294,19 @@ This repository contains 16 practical programs implementing fundamental machine 
 
 **Screenshot**
 
-<img width="241" height="162" alt="image" src="https://github.com/user-attachments/assets/01abec95-8f6b-46e7-be98-5764513a3333" />
-<img width="226" height="161" alt="image" src="https://github.com/user-attachments/assets/85ae25b0-fbf8-412c-8f7c-c00adae79337" />
-<img width="287" height="142" alt="image" src="https://github.com/user-attachments/assets/0848729a-177b-4160-a24e-ec8ce9146dc6" />
-<img width="196" height="272" alt="image" src="https://github.com/user-attachments/assets/4352b0c6-a107-47ab-b96c-9c59f2f83386" />
-<img width="205" height="105" alt="image" src="https://github.com/user-attachments/assets/6f9f43c6-7490-4f62-ba80-169ac94710d3" />
+
+<img width="440" height="323" alt="image" src="https://github.com/user-attachments/assets/d1bcc556-cef9-4def-bc66-6ad50713f307" />
+
+<img width="457" height="455" alt="image" src="https://github.com/user-attachments/assets/6d8941b7-0745-4eea-a36c-9ae8e4c0fe1e" />
+
+<img width="454" height="510" alt="image" src="https://github.com/user-attachments/assets/41603e4c-67c9-4172-878b-583316554b6f" />
+
+<img width="466" height="525" alt="image" src="https://github.com/user-attachments/assets/4b025957-4ecd-4ec5-becd-e18a9083c76a" />
+
+<img width="465" height="512" alt="image" src="https://github.com/user-attachments/assets/df9bb2f5-e580-4ca8-8799-2793ab68aff7" />
+
+<img width="507" height="337" alt="image" src="https://github.com/user-attachments/assets/2aef65b0-b36a-48e3-a49b-d23d8c67548d" />
+
 
 
 ---
@@ -292,7 +322,11 @@ This repository contains 16 practical programs implementing fundamental machine 
 
 **Screenshot**
 
-<img width="494" height="389" alt="image" src="https://github.com/user-attachments/assets/18d30fea-783c-4ac2-9648-293858fed0e3" />
+
+<img width="458" height="160" alt="image" src="https://github.com/user-attachments/assets/a947d32f-d0b0-4153-8fc2-5c49725ab4ff" />
+
+<img width="460" height="222" alt="image" src="https://github.com/user-attachments/assets/cae13203-a539-4ffb-9599-c190737bb3c5" />
+
 
 ---
 
@@ -309,10 +343,17 @@ This repository contains 16 practical programs implementing fundamental machine 
 **Screenshot**
 
 
-<img width="313" height="253" alt="image" src="https://github.com/user-attachments/assets/1e411305-1ff1-457b-93c5-5ea8e42a5e21" />
-<img width="389" height="261" alt="image" src="https://github.com/user-attachments/assets/79d40d95-d907-41ce-ae44-91a41f620853" />
-<img width="391" height="205" alt="image" src="https://github.com/user-attachments/assets/56db16d3-1af1-41c7-b4a7-c5f311f04e95" />
-<img width="386" height="289" alt="image" src="https://github.com/user-attachments/assets/bf014b37-2ac2-441b-8683-2c371840050d" />
+
+<img width="492" height="388" alt="image" src="https://github.com/user-attachments/assets/4a606808-d531-40d3-ad71-47355af2ae20" />
+
+<img width="625" height="530" alt="image" src="https://github.com/user-attachments/assets/27ac1c2a-0b3b-4f33-af8d-bfdc3c35bd58" />
+
+<img width="529" height="278" alt="image" src="https://github.com/user-attachments/assets/9a2c6d2b-9b44-4ad2-bd9e-809caa6bcd5d" />
+
+<img width="635" height="439" alt="image" src="https://github.com/user-attachments/assets/db133fa5-12a7-490a-a759-54f9d033904c" />
+
+<img width="643" height="444" alt="image" src="https://github.com/user-attachments/assets/731f93ea-4117-4a71-abb0-d957e5ee6f96" />
+
 
 
 
