@@ -1,6 +1,6 @@
 # Machine Learning Lab Work 2
 
-This repository contains 15 practical programs implementing fundamental machine learning techniques, from data preprocessing and visualization to advanced algorithms including regression, classification, clustering, and dimensionality reduction.
+This repository contains 16 practical programs implementing fundamental machine learning techniques, from data preprocessing and visualization to advanced algorithms including regression, classification, clustering, and dimensionality reduction.
 
 ## Programs Overview
 
